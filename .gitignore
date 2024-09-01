@@ -1,0 +1,8 @@
+# VSCode
+vscode/
+
+# TypeScript
+dist/
+
+# NodeJS
+node_modules/
